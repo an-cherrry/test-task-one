@@ -246,6 +246,8 @@ Content-Type: application/json
 
 ## Задание 3.2
 
+![](задание%203.2.png)
+
 ```puml
 @startuml
 'https://plantuml.com/activity-diagram-beta
